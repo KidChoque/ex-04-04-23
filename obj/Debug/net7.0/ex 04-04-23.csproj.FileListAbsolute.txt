@@ -1,0 +1,15 @@
+C:\Users\53297269804\ex 04-04-23\bin\Debug\net7.0\ex 04-04-23.exe
+C:\Users\53297269804\ex 04-04-23\bin\Debug\net7.0\ex 04-04-23.deps.json
+C:\Users\53297269804\ex 04-04-23\bin\Debug\net7.0\ex 04-04-23.runtimeconfig.json
+C:\Users\53297269804\ex 04-04-23\bin\Debug\net7.0\ex 04-04-23.dll
+C:\Users\53297269804\ex 04-04-23\bin\Debug\net7.0\ex 04-04-23.pdb
+C:\Users\53297269804\ex 04-04-23\obj\Debug\net7.0\ex 04-04-23.csproj.AssemblyReference.cache
+C:\Users\53297269804\ex 04-04-23\obj\Debug\net7.0\ex 04-04-23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53297269804\ex 04-04-23\obj\Debug\net7.0\ex 04-04-23.AssemblyInfoInputs.cache
+C:\Users\53297269804\ex 04-04-23\obj\Debug\net7.0\ex 04-04-23.AssemblyInfo.cs
+C:\Users\53297269804\ex 04-04-23\obj\Debug\net7.0\ex 04-04-23.csproj.CoreCompileInputs.cache
+C:\Users\53297269804\ex 04-04-23\obj\Debug\net7.0\ex 04-04-23.dll
+C:\Users\53297269804\ex 04-04-23\obj\Debug\net7.0\refint\ex 04-04-23.dll
+C:\Users\53297269804\ex 04-04-23\obj\Debug\net7.0\ex 04-04-23.pdb
+C:\Users\53297269804\ex 04-04-23\obj\Debug\net7.0\ex 04-04-23.genruntimeconfig.cache
+C:\Users\53297269804\ex 04-04-23\obj\Debug\net7.0\ref\ex 04-04-23.dll
